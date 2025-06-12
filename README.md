@@ -22,13 +22,21 @@ This repository contains over **300 Python practice programs**, organized by top
 
 ## 🧠 Topics Covered
 
-Here’s a checklist of core Python concepts that these practice problems are based on:
+Here’s a checklist of core Python concepts that these practice problems are based on :
+(Might differ a little in order of topics but never in difficulty levels.)
 
+- [ ] Python Basics(Hello, World!),(Keywords, Identifiers, Comments, Data Types), Type-conversions
+- [ ] Arithmetic & Logical Operators
+- [ ] String Operations
+- [ ] Control Flow (if/else, elif, nested conditions)
+- [ ] Loops (for, while, break, continue)
+- [ ] Functions (user-defined, built-in, *args, **kwargs)
+- [ ] Scope and return statements
 - [ ] Python Data Structures (lists, tuples, dictionaries, sets)
 - [ ] Control Structures (if/else statements, loops, functions)
 - [ ] Object-Oriented Programming in Python (classes, inheritance, polymorphism)
 - [ ] File Handling and Input/Output Operations
-- [ ]  Exception Handling
+- [ ] Exception Handling
 - [ ] Regular Expressions
 - [ ] GUI Programming with Tkinter
 - [ ] Python Libraries and Modules (NumPy, Pandas)
