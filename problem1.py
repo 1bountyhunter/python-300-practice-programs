@@ -5,8 +5,8 @@ for i in range(1, n+1):
 
 
 #using enumerate: 
+print("another logic")
 
-n = int(input("Enter a number: "))
 squares = [i**2 for i in range(1, n+1)]
 for i, square in enumerate(squares, start=1):
     print(f"The square of {i} is: {square}")
